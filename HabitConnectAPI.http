@@ -1,0 +1,6 @@
+@maybe_good_HostAddress = http://localhost:5200
+
+GET {{maybe_good_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

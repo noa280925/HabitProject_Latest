@@ -1,0 +1,8 @@
+tools
+mycrosoft.entityFrameNetworkCore- בשביל ה-DBContext : DBContext
+using AutoMapper
+
+
+middleware
+טוקנים
+לכל קונטרולר צריך שיהיה service, וממשקים לכל אחד (ממשקים זה כנראה בממשק הcore) - כל זה צריך להיות אסינכרוני
